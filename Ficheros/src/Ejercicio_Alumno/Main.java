@@ -30,10 +30,9 @@ public class Main {
 		
 		
 		// Posicion 1 Nombre , Posicion 2 Apellidos, Posicion 3 Edad , Posicion 4 Modulo
-		
-		
 		bdalumno.actualizaPorPosicion(a.getDNI(), "#", 2, "Garza");
-		// bdalumno.borrar(pepe.getDNI());
+		BDAlumnoXML BDAlumnoXML = new BDAlumnoXML("./BDAlumnos.xml");
+		BDAlumnoXML.inserta(pepe);
 
 	}
 }
