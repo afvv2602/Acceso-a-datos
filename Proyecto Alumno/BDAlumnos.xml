@@ -1,0 +1,31 @@
+<Ejercicio__Alumno.Alumno>
+  <nombre>Pepe</nombre>
+  <edad>23</edad>
+  <DNI>345678F</DNI>
+  <apellidos>Garcia</apellidos>
+  <modulo>Informatica</modulo>
+</Ejercicio__Alumno.Alumno><Ejercicio__Alumno.Alumno>
+  <nombre>Andres</nombre>
+  <edad>28</edad>
+  <DNI>976774J</DNI>
+  <apellidos>Fernandez</apellidos>
+  <modulo>Musica</modulo>
+</Ejercicio__Alumno.Alumno><Ejercicio__Alumno.Alumno>
+  <nombre>Ana</nombre>
+  <edad>29</edad>
+  <DNI>678452N</DNI>
+  <apellidos>Rodriguez</apellidos>
+  <modulo>Produccion</modulo>
+</Ejercicio__Alumno.Alumno><Ejercicio__Alumno.Alumno>
+  <nombre>Pedro</nombre>
+  <edad>32</edad>
+  <DNI>098764L</DNI>
+  <apellidos>Nuñez</apellidos>
+  <modulo>Animacion</modulo>
+</Ejercicio__Alumno.Alumno><Ejercicio__Alumno.Alumno>
+  <nombre>Andrea</nombre>
+  <edad>19</edad>
+  <DNI>155675Y</DNI>
+  <apellidos>Doral</apellidos>
+  <modulo>Robotica</modulo>
+</Ejercicio__Alumno.Alumno>

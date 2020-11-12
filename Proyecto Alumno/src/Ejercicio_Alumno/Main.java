@@ -27,12 +27,18 @@ public class Main {
 		bdalumno.inserta(d);
 		Alumno pep = new Alumno("Pepe", 26, "345678F", "Fernandez", "Subnormal");
 		bdalumno.actualiza(pep.getDNI(), pep);
+		BDAlumnoXML bdalumnoXML = new BDAlumnoXML();
+		bdalumnoXML.inserta(pepe);
+		bdalumnoXML.inserta(a);
+		bdalumnoXML.inserta(b);
+		bdalumnoXML.inserta(c);
+		bdalumnoXML.inserta(d);
 		
 		
 		// Posicion 1 Nombre , Posicion 2 Apellidos, Posicion 3 Edad , Posicion 4 Modulo
 		bdalumno.actualizaPorPosicion(a.getDNI(), "#", 2, "Garza");
-		BDAlumnoXML BDAlumnoXML = new BDAlumnoXML("./BDAlumnos.xml");
-		BDAlumnoXML.inserta(pepe);
+//		BDAlumnoXML BDAlumnoXML = new BDAlumnoXML("./BDAlumnos.xml");
+//		BDAlumnoXML.inserta(pepe);
 
 	}
 }

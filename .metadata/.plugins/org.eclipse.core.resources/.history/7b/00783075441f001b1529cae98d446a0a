@@ -1,8 +1,0 @@
-package Ejercicio_Alumno;
-
-public class BDAlumnoXML {
-
-	String rutaFichero = "BDAlumnos.xml";
-	XMLUtil xmlUtil;
-	
-}
