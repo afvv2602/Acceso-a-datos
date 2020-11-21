@@ -1,0 +1,13 @@
+<Alumno>
+  <nombre>Pepe</nombre>
+  <edad>23</edad>
+  <DNI>345678F</DNI>
+  <apellidos>Garcia</apellidos>
+  <modulo>Informatica</modulo>
+</Alumno><Alumno>
+  <nombre>Andres</nombre>
+  <edad>28</edad>
+  <DNI>976774J</DNI>
+  <apellidos>Fernandez</apellidos>
+  <modulo>Musica</modulo>
+</Alumno>

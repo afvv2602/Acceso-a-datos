@@ -31,4 +31,5 @@
     <fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
     <fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.DomDriver"/>
     <fullyQualifiedTypeName name="Ejercicio_Alumno.BDAlumnoXML"/>
+    <fullyQualifiedTypeName name="java.time.temporal.TemporalField"/>
 </qualifiedTypeNameHistroy>

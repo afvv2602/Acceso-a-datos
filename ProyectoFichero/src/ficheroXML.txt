@@ -1,0 +1,21 @@
+<Alumno>
+  <id>7007845H</id>
+  <nombre>VICTOR</nombre>
+  <edad>23</edad>
+</Alumno><Alumno>
+  <id>90082254V</id>
+  <nombre>JUAN</nombre>
+  <edad>29</edad>
+</Alumno><Alumno>
+  <id>67857463V</id>
+  <nombre>LUIS</nombre>
+  <edad>17</edad>
+</Alumno><Alumno>
+  <id>67859421Y</id>
+  <nombre>ANDREA</nombre>
+  <edad>20</edad>
+</Alumno><Alumno>
+  <id>381736315H</id>
+  <nombre>TOMAS</nombre>
+  <edad>19</edad>
+</Alumno>

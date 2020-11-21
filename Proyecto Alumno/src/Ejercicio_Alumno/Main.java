@@ -1,5 +1,6 @@
 package Ejercicio_Alumno;
 
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -8,6 +9,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.ListIterator;
+
+import Ejercicio_Alumno.Alumno;
+import Ejercicio_Alumno.BDAlumno;
+import Ejercicio_Alumno.BDAlumnoXML;
+import Ejercicio_Alumno.Fichero;
 
 public class Main {
 
@@ -25,7 +31,7 @@ public class Main {
 		bdalumno.inserta(b);
 		bdalumno.inserta(c);
 		bdalumno.inserta(d);
-		Alumno pep = new Alumno("Pepe", 26, "345678F", "Fernandez", "Subnormal");
+		Alumno pep = new Alumno("Jose Mari", 26, "345678F", "Fernandez", "Subnormal");
 		bdalumno.actualiza(pep.getDNI(), pep);
 		BDAlumnoXML bdalumnoXML = new BDAlumnoXML();
 		bdalumnoXML.inserta(pepe);
@@ -33,10 +39,9 @@ public class Main {
 		bdalumnoXML.inserta(b);
 		bdalumnoXML.inserta(c);
 		bdalumnoXML.inserta(d);
-		
-		
 		// Posicion 1 Nombre , Posicion 2 Apellidos, Posicion 3 Edad , Posicion 4 Modulo
 		bdalumno.actualizaPorPosicion(a.getDNI(), "#", 2, "Garza");
+		
 //		BDAlumnoXML BDAlumnoXML = new BDAlumnoXML("./BDAlumnos.xml");
 //		BDAlumnoXML.inserta(pepe);
 

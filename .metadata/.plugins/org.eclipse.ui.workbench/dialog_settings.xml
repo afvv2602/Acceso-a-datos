@@ -14,9 +14,12 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\afvv2\Desktop\Practica AD(1).zip"/>
 			<item value="C:\Users\afvv2\Desktop\Multihilo.zip"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileImportWizard">
 	</section>
 </section>
