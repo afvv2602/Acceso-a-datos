@@ -2,10 +2,14 @@
 <section name="Workbench">
 	<section name="ImportExportAction">
 		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
 		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
 			<item value="org.eclipse.equinox.p2.category"/>
 			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
 	<section name="FileSystemExportWizard">
@@ -14,11 +18,25 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\afvv2\Desktop\19-20_PracticaAD_1EvalFernandez_Adrian.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v9.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v8.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v7.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v6.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v5.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v4.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v3.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v2.0.zip"/>
+			<item value="C:\Users\afvv2\Desktop\v1.0.zip"/>
 			<item value="C:\Users\afvv2\Desktop\Practica AD(1).zip"/>
 			<item value="C:\Users\afvv2\Desktop\Multihilo.zip"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="com.boothen.jsonedit.editor.new"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.boothen.jsonedit.editor.new.category"/>
+		</list>
 	</section>
 	<section name="ZipFileImportWizard">
 	</section>

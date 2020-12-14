@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\afvv2\Desktop\Workspaces\Acceso a datos\WorkSpace AD\Pruebas"/>
 			<item value="C:\Users\afvv2\Desktop\Workspaces\Acceso a datos\WorkSpace AD\Ficheros"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -47,6 +48,7 @@
 		<list key="groupId">
 		</list>
 		<list key="name">
+			<item value="Json"/>
 		</list>
 		<list key="artifactId">
 		</list>
